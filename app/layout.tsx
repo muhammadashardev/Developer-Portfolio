@@ -5,6 +5,7 @@ import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import StarsCanvas from "@/components/main/StarsBackground";
 import Navbar from "@/components/Navbar";
+import Background3D from "@/components/Background3D";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -54,8 +55,8 @@ export default function RootLayout({
               jobTitle: "Software Engineer",
               url: "https://ibiimemon.com",
               sameAs: [
-                "https://www.linkedin.com/in/ibrahimmemonn/",
-                "https://github.com/ibrahimmemonn",
+                "https://www.linkedin.com/in/alamgeerkhan-softwareengineer/",
+                "https://github.com/AlamGeerDev786",
               ],
             }),
           }}
@@ -81,6 +82,7 @@ export default function RootLayout({
       >
         <SpeedInsights />
         <Analytics />
+        <Background3D />
         <StarsCanvas />
         <Navbar />
         {children}

@@ -1,22 +1,27 @@
 export const Social_Icons = [
   {
-    link: "https://github.com/ibrahimmemonn",
+    link: "https://github.com/AlamGeerDev786",
     image: "/Github.svg",
-    alt: "Ibrahim Memon - Social Media",
+    alt: "Alamgeer Baloch - GitHub",
   },
   {
-    link: "https://www.instagram.com/ibii.memon/?hl=en",
-    image: "/Instagram.svg",
-    alt: "Ibrahim Memon - Social Media",
-  },
-  {
-    link: "https://www.linkedin.com/in/ibrahimmemonn/",
+    link: "https://www.linkedin.com/in/alamgeerkhan-softwareengineer/",
     image: "/LinkedIn.svg",
-    alt: "Ibrahim Memon - Social Media",
+    alt: "Alamgeer Baloch - LinkedIn",
   },
   {
-    link: "https://twitter.com/Ibrahimmemonnn",
-    image: "/Twitter.svg",
-    alt: "Ibrahim Memon - Social Media",
+    link: "https://www.instagram.com/alamgir.baloch9/",
+    image: "/Instagram.svg",
+    alt: "Alamgeer Baloch - Instagram",
+  },
+  {
+    link: "https://www.facebook.com/Alamgeer.khan.921230",
+    image: "/Facebook.svg",
+    alt: "Alamgeer Baloch - Facebook",
+  },
+  {
+    link: "https://stackoverflow.com/users/22265455/alamgeer-baloch",
+    image: "/StackOverflow.svg",
+    alt: "Alamgeer Baloch - Stack Overflow",
   },
 ];
